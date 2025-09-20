@@ -11,4 +11,5 @@ dependencies = [
     "langchain-anthropic",
     "langchain-ollama",
     "python-dotenv>=1.1.1",
+    "gradio>=5.46.1",
 ]
