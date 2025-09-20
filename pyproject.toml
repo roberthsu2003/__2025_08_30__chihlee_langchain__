@@ -10,4 +10,5 @@ dependencies = [
     "langchain-openai",
     "langchain-anthropic",
     "langchain-ollama",
+    "python-dotenv>=1.1.1",
 ]
