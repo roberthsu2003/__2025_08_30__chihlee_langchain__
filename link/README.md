@@ -34,3 +34,8 @@ https://www.youtube.com/watch?v=L1AJ_bfJwHc
 https://www.youtube.com/watch?v=b6-aEzhmZH0
 
 ---
+
+## 2025_09_27_早上
+https://www.youtube.com/watch?v=kYGONMGMZMU
+
+---
