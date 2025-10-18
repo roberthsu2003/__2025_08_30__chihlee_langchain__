@@ -42,3 +42,8 @@ https://www.youtube.com/watch?v=kYGONMGMZMU
 https://www.youtube.com/watch?v=5DpB4ZOBWhM
 
 ---
+
+## 2025_10_18_早上
+https://www.youtube.com/watch?v=7BkeotanXSo
+
+---
