@@ -15,4 +15,9 @@ dependencies = [
     "langchain>=0.3.27",
     "onnxruntime>=1.16.0,<1.23.0",
     "chromadb>=1.2.1",
+    "langchain-community>=0.3.31",
+    "langchain-huggingface>=0.3.1",
+    "sentence-transformers>=5.1.2",
+    "ipywidgets>=8.1.7",
+    "langchain-chroma>=0.2.6",
 ]
